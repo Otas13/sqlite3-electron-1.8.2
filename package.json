@@ -1,0 +1,8 @@
+{
+  "name": "sqlite3-electron-1.8.2",
+  "version": "1.0.0",
+  "description": "sqlite3 electron prebuilded",
+  "main": "index.js",
+  "author": "Ota Klapka <klapka.ota@gmail.com>",
+  "license": "MIT"
+}
