@@ -1,5 +1,9 @@
 {
   "name": "sqlite3-electron-1.8.2",
+  "repository": "Otas13/sqlite3-electron-1.8.2",
+  "bugs": {
+    "url": "https://github.com/mapbox/node-sqlite3/issues"
+  },
   "version": "1.0.0",
   "description": "sqlite3 electron prebuilded",
   "main": "index.js",
